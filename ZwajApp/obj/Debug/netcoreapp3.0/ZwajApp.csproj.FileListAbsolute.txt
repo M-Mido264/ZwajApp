@@ -79,3 +79,12 @@ C:\Users\DELL\Desktop\Zwaj\ZwajApp\bin\Debug\netcoreapp3.0\tsconfig.app.json
 C:\Users\DELL\Desktop\Zwaj\ZwajApp\bin\Debug\netcoreapp3.0\tsconfig.json
 C:\Users\DELL\Desktop\Zwaj\ZwajApp\bin\Debug\netcoreapp3.0\tsconfig.spec.json
 C:\Users\DELL\Desktop\Zwaj\ZwajApp\bin\Debug\netcoreapp3.0\tslint.json
+C:\Users\DELL\Desktop\Zwaj\ZwajApp\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\Desktop\Zwaj\ZwajApp\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Desktop\Zwaj\ZwajApp\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Desktop\Zwaj\ZwajApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\Zwaj\ZwajApp\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Desktop\Zwaj\ZwajApp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\DELL\Desktop\Zwaj\ZwajApp\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\Desktop\Zwaj\ZwajApp\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\Desktop\Zwaj\ZwajApp\bin\Debug\netcoreapp3.0\package-lock.json
